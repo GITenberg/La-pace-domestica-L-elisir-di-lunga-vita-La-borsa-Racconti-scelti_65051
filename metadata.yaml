@@ -1,5 +1,8 @@
 _repo: La-pace-domestica-L-elisir-di-lunga-vita-La-borsa-Racconti-scelti_65051
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65051-h/images/cover.jpg
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -16,6 +19,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65051#La-pace-domestica-L-elisir-di-lunga-vita-La-borsa-Racconti-scelti
 gutenberg_issued: '2021-04-10'
 gutenberg_type: Text
 identifiers:
